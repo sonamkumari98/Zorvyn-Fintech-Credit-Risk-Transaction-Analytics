@@ -82,7 +82,6 @@ Interact with Slicers to filter insights by category or region.
 
 📸 Dashboard Preview
 
-![Uploading Screenshot 2026-04-13 171559.png…]()
 <img width="1765" height="760" alt="Screenshot 2026-04-13 171559" src="https://github.com/user-attachments/assets/1c1327d1-7908-4db9-ad4e-aaaecfbc89ff" />
 
 
